@@ -5,8 +5,11 @@ Gaze Position and Pupil Size Estimation"* (Heliyon, HELIYON-D-26-07304).
 
 ## Data
 
-The raw EEGEyeNet recordings are not redistributed here - see the
-manuscript's Data and Code Availability statement to obtain them. Scripts
+The raw EEGEyeNet recordings are not redistributed here. The dataset is
+publicly available from the EEGEyeNet project:
+https://doi.org/10.17605/OSF.IO/KTV7M
+
+See also the manuscript's Data and Code Availability statement. Scripts
 take a local data path via `--data`/`--data-folder`.
 
 ## Installation
